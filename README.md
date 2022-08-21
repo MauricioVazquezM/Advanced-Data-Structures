@@ -1,4 +1,4 @@
-# Advanced Data Estructures Course
+# Advanced Data Estructures Course Tasks
 
 <p align="center">
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201129105858/Tree-Basic-Terminology.png">
