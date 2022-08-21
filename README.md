@@ -5,12 +5,12 @@
 In this repository, you will find exercises of a practical nature, resolved during the Advanced Data Structures course at the Autonomous Technological Institute of Mexico (ITAM). It is worth mentioning that the course was taught by Dr. Fernando Esponda.
 
 ### Content
-* [Course objective](#Course objective)
+* [Course-objective](#Course-objective)
 * [Syllabus](#Syllabus) 
 * [Bibliography](#Bibliography) 
 
 
-## Course objective
+## Course-objective
 
 - Understand data structures logic and programming tools
 - Analyze problems that involve the use of data structures and to develop algorithms for their solution
