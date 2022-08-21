@@ -1,6 +1,8 @@
-# Advanced Data Estructures
+# Advanced Data Estructures Course
 
-![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201129105858/Tree-Basic-Terminology.png)
+<p align="center">
+<img="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201129105858/Tree-Basic-Terminology.png">
+</p>
 
 In this repository, you will find exercises of a practical nature, resolved during the Advanced Data Structures course at the Autonomous Technological Institute of Mexico (ITAM). It is worth mentioning that the course was taught by Dr. Fernando Esponda.
 
