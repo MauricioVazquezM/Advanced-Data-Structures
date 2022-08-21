@@ -29,9 +29,9 @@ In this repository, you will find exercises of a practical nature, resolved duri
 - Heaps
 - Tries
 - Probabilistic and randomized data structures:
-      - Hash tables
-      - Bloom Filters
-      - Skip List
+      1) Hash tables
+      2) Bloom Filters
+      3) Skip List
 - Graphs
 
 
