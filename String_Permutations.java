@@ -13,14 +13,6 @@ package RECURSIVIDAD;
  */
 public class String_Permutations {
     
-    public static void permutation(String cad){
-        
-    }
-    
-    private static void permutation(String cad, int i){
-        
-    }
-    
     public static void permuta(String cad, String res){
         Character c;
         String resto;
