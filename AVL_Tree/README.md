@@ -23,6 +23,7 @@ In this folder, you will find the programming and implementation of the basic ac
 - Insert
 - Erase
 - Search
+- Balance
 
 ## Bibliography
 - Wikipedia contributors. (2022, September 4). AVL tree. Wikipedia. Retrieved October 12, 2022, from https://en.wikipedia.org/wiki/AVL_tree
